@@ -85,21 +85,23 @@ class DongwookKwon:
 
 <div align="center">
 
-<!-- GitHub Streak Stats (더 안정적인 버전) -->
+<!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongwooky&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="180" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwooky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="180" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Dongwook's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongwooky&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Snake Animation - GitHub Actions로 자동 생성됨 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dongwooky/dongwooky/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dongwooky/dongwooky/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dongwooky/dongwooky/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
