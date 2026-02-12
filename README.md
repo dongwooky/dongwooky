@@ -75,7 +75,7 @@ class DongwookKwon:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dongwooky&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongwooky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github)](https://github.com/dongwooky)
 
 </div>
 
