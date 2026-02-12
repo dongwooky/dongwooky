@@ -71,16 +71,6 @@ class DongwookKwon:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongwooky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github)](https://github.com/dongwooky)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
